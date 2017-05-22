@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HttpUrl/HttpUrl.iml" filepath="$PROJECT_DIR$/HttpUrl/HttpUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemoExperence/MVPDemoExperence.iml" filepath="$PROJECT_DIR$/MVPDemoExperence/MVPDemoExperence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRecycleView/MyRecycleView.iml" filepath="$PROJECT_DIR$/MyRecycleView/MyRecycleView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefrence/PullToRefrence.iml" filepath="$PROJECT_DIR$/PullToRefrence/PullToRefrence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Renxintong1503A20170515.iml" filepath="$PROJECT_DIR$/Renxintong1503A20170515.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenuLibrary/SlidingMenuLibrary.iml" filepath="$PROJECT_DIR$/SlidingMenuLibrary/SlidingMenuLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UpPicture/UpPicture.iml" filepath="$PROJECT_DIR$/UpPicture/UpPicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewTask/ViewTask.iml" filepath="$PROJECT_DIR$/ViewTask/ViewTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WifSelection/WifSelection.iml" filepath="$PROJECT_DIR$/WifSelection/WifSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

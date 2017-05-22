@@ -1,0 +1,2 @@
+include ':app', ':SlidingMenuLibrary', ':ViewTask', ':UpPicture', ':MVPDemoExperence', ':HttpUrl', ':MyRecycleView', ':PullToRefrence', ':WifSelection'
+include ':library'
